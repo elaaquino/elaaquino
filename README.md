@@ -1,5 +1,7 @@
-# ❤️ About Me:
-(∩｀-´)⊃━☆ﾟ.*･｡ﾟ Hello! I'm Ela!<br><br>🍒 I'm a computer science major in my junior year, transferring to the University of Southern California in Spring 2027.<br><br>🏮 Currently located in the Bay Area, I'm always looking for opportunities!<br><br>🧰 With experience in full-stack development, I have taken a lot of interest in front-end development and incorporating design into intuitive user interfaces.<br><br>🥩 Apart from developing projects, I love playing video games (follow my Twitch channel linked below ^_^), singing, and cooking ribeye steaks to medium-rare!<br><br>❗ I would love to connect with others in the tech space, especially women, as I have a passion for women's representation in the tech world.
+<img width="1400" height="349" alt="1791946571253" src="https://github.com/user-attachments/assets/f047e85a-fa61-4da7-8d38-11cd61ba1903" />
+
+# ❤️ (∩｀-´)⊃━☆ﾟ.*･｡ﾟ Hello! I'm Ela!
+🍒 I'm a computer science major in my junior year, transferring to the University of Southern California in Spring 2027.<br><br>🏮 Being located in the Bay Area my whole life, I have always been surrounded and inspired by amazing tech, leading me to where I am today.<br><br>🧰 With experience in full-stack development, I have taken a lot of interest in front-end development and incorporating fun design into intuitive user interfaces. I also have an interest in game development and AI engineering, though I am still building my skills in those areas.<br><br>🥩 Apart from developing projects, I love playing video games (follow my Twitch channel linked below ^_^), singing, advocating for women's representation in tech, and cooking ribeye steaks to medium-rare!<br><br>❗ I would love to connect with others! As I continue to build my skills and experiences, I am always looking for the next opportunity to help me grow. Don't hesitate to reach out at one of the links below!
 
 
 ## 🌹 Socials:
